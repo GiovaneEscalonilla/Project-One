@@ -1,1 +1,2 @@
 hello world, my name is Giovane and now I start to learn about Git :) 
+Hi, I am a new line 
